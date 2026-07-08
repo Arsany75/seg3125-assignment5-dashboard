@@ -147,6 +147,5 @@ The project includes:
 ## Author
 
 **Arsany Dematry**
-Student number: **300297626**
 Course: **SEG3125 — Analysis and Design of User Interfaces**
 
