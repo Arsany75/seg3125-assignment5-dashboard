@@ -559,7 +559,7 @@
 
         h("footer", { className: "footer" },
           h("div", { className: "footer-inner" },
-            h("span", null, `${t.footerCourse} · Arsany Dematry · 300297626`),
+            h("span", null, `${t.footerCourse} · Arsany Dematry`),
             h("span", null, h("a", { href: "https://famous-beijinho-ce4718.netlify.app/", target: "_blank", rel: "noopener" }, t.footerPortfolio), " · ", t.footerData)
           )
         )
