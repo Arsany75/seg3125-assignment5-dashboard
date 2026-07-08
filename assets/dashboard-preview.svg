@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="t d">
+<title id="t">NORTHSTAR dashboard preview</title><desc id="d">A bilingual technology careers dashboard with KPI cards, a horizontal bar chart and a line chart.</desc>
+<rect width="1200" height="760" rx="38" fill="#f6f5f1"/>
+<rect x="0" y="0" width="1200" height="150" rx="38" fill="#0e1a24"/>
+<text x="70" y="70" font-family="Arial" font-size="24" fill="#9ed0d4">SYNTHETIC CANADIAN DATA / DONNÉES SYNTHÉTIQUES</text>
+<text x="70" y="122" font-family="Arial" font-weight="700" font-size="54" fill="#fff">NORTHSTAR</text>
+<g transform="translate(70 185)">
+  <g fill="#fff" stroke="#dce4e4"><rect width="245" height="105" rx="18"/><rect x="270" width="245" height="105" rx="18"/><rect x="540" width="245" height="105" rx="18"/><rect x="810" width="245" height="105" rx="18"/></g>
+  <g font-family="Arial" fill="#5b6873" font-size="16"><text x="22" y="35">MEDIAN SALARY</text><text x="292" y="35">TOP CITY</text><text x="562" y="35">GROWTH</text><text x="832" y="35">ROLE</text></g>
+  <g font-family="Arial" fill="#0e1a24" font-weight="700" font-size="30"><text x="22" y="76">$94,800</text><text x="292" y="76">Toronto</text><text x="562" y="76">+19.6%</text><text x="832" y="76">AI / ML</text></g>
+</g>
+<g transform="translate(70 325)">
+  <rect width="515" height="350" rx="22" fill="#fff" stroke="#dce4e4"/>
+  <text x="28" y="46" font-family="Arial" font-size="25" font-weight="700" fill="#0e1a24">Salary by city</text>
+  <g fill="#0a6e78"><rect x="120" y="78" width="330" height="27" rx="7"/><rect x="120" y="123" width="286" height="27" rx="7"/><rect x="120" y="168" width="310" height="27" rx="7"/><rect x="120" y="213" width="258" height="27" rx="7"/><rect x="120" y="258" width="278" height="27" rx="7"/></g>
+  <rect x="120" y="303" width="235" height="27" rx="7" fill="#c6923e"/>
+</g>
+<g transform="translate(615 325)">
+  <rect width="515" height="350" rx="22" fill="#fff" stroke="#dce4e4"/>
+  <text x="28" y="46" font-family="Arial" font-size="25" font-weight="700" fill="#0e1a24">Opportunity trend</text>
+  <g stroke="#e5ecec"><path d="M50 90h420M50 150h420M50 210h420M50 270h420"/></g>
+  <path d="M55 260 155 230 255 194 355 150 455 95" fill="none" stroke="#0a6e78" stroke-width="8" stroke-linecap="round"/>
+  <path d="M55 270 155 244 255 221 355 184 455 142" fill="none" stroke="#c6923e" stroke-width="8" stroke-linecap="round"/>
+</g>
+</svg>
